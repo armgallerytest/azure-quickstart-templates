@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "metadata": {
     "about": "GitHub Enterprise is the self-hosted version of GitHub.com. Collaborate, track issues & review code - all on your own servers.",
-    "website": "http://enterprise.github.com",
+    "website": "http://enterprise.github.com", 
     "description": "This template deploys the lastest version of GitHub Enterprise on a single, Premium Storage-backed Azure VM."
   },
   
